@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP21</string>
+    <string name="key_file">chave_en.json</string>
+    <string name="main_fragment_label">Hello</string>
+</resources>
