@@ -3,4 +3,9 @@
     <string name="app_name">TP21</string>
     <string name="key_file">chave_en.json</string>
     <string name="main_fragment_label">Hello</string>
+    <string name="button_minhas_rochas">Minhas Rochas</string>
+    <string name="textView_home_screen">App educativa para classificação de animais, plantas e rochas</string>
+    <string name="button_meus_insetos">Meus Insetos</string>
+    <string name="button_classificar_rocha">Classificar Rocha</string>
+    <string name="button_classificar_inseto">Classificar Inseto</string>
 </resources>
